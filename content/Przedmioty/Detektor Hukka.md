@@ -11,7 +11,7 @@ Wykonano 5 pierścieni dla następujących osób:
 
 Detektor Hukka
 
-Zestaw 5 identycznych pierścieni. Do ich wykonania niezbędna jest krew 4 osób, i każda z tych osób musi być obecna podczas rytuału zaplatania czaru. 
+Zestaw 5 identycznych pierścieni. Do ich wykonania niezbędna jest krew 5 osób, i każda z tych osób musi być obecna podczas rytuału zaplatania czaru. 
 
 Pierścień pozwala na nieomylną identyfikację 5 osób z rytuału. Uruchomiony może być jedynie przez osobę, której esencja została użyta do stworzenia pierścienia. Noszący po uruchomieniu pierścienia przykłada go do skóry innej osoby. Jeśli jest to jedna z 5 osób, odpowiadający mu kamień zaczyna delikatnie świecić. Jeśli to ktoś inny, świeci kamień czerwony. 
 

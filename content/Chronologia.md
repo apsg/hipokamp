@@ -24,3 +24,4 @@ Chronologia czyli dziejów spisanie
 
 ### Wrota Baldura
 
+CDN...

@@ -1,0 +1,1 @@
+Jacy są każdy widzi
