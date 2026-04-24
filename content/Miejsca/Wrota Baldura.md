@@ -1,6 +1,8 @@
 
+- Nowa siedziba [[Mors Aeterna]] przy świątyni 
+- Tajne pokoje [[Ali Stercora|Aliego]] - gdzie? 
 
-# Karczmy
+## Karczmy
 
 - [[Magiczny Kapelusz]]
 - [[Pod Rozbrykanym Kucykiem]]
@@ -8,6 +10,6 @@
 - 
 
 
-# Banki
+## Banki
 - [[Bank Venturellich]]
 - 

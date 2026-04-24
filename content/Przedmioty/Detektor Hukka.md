@@ -5,7 +5,7 @@ Wykonano 5 pierścieni dla następujących osób:
 - [[Ali Stercora]]
 - [[Valerianus]]
 - [[Sandovall Sierra Casca]]
-- [[Niriel]]
+- [[Niril]]
 - [[Sylvaren]]
 
 

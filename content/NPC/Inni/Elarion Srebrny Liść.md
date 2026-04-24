@@ -1,5 +1,5 @@
 #strażnik #elf 
 
-Funfel [[Niriel|Niriela]]
+Funfel [[Niril|Niriela]]
 
 Poszukuje [[Berło zielonego blasku]]

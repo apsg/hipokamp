@@ -1,3 +1,0 @@
-#gnom #druid 
-
-![[Niriel.png]]

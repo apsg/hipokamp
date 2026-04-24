@@ -3,7 +3,7 @@
 - ⚔️ [[Ali Stercora]]
 - 🛡️ [[Valerianus]]
 - 🗡️ [[Sandovall Sierra Casca]]
-- 🍂 [[Niriel]]
+- 🍂 [[Niril]]
 - 📖 [[Sylvaren]]
 # Już nie
 
