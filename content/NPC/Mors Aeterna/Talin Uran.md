@@ -1,0 +1,1 @@
+Zabójca z [[Mors Aeterna]] do eliminacji wampirów
