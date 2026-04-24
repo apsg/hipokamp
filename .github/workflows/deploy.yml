@@ -6,7 +6,7 @@ on:
       - main
 
 env:
-  THEME_NAME: its-theme.ttrpg-pathfinder
+  THEME_NAME: cidreira-coast
 
 permissions:
   contents: read

@@ -4,10 +4,10 @@
 - 🛡️ [[Valerianus]]
 - 🗡️ [[Sandovall Sierra Casca]]
 - 🍂 [[Niriel]]
-- 📖 [[Sylvaren Thalos]]
+- 📖 [[Sylvaren]]
 # Już nie
 
-- ☠️ 📖 [[Zaltar z Sutim]]
+- ☠️ 📖 [[Zaltar z Sultim]]
 - ☠️ [[Wojciech]]
 - ☠️ [[Taman]]
 - 

@@ -2,10 +2,10 @@
 
 
 
-[[Pierścień identyfikacyjny|Pierścienie]] pozwalające wejść do świata posiadają:
+[[Detektor Hukka|Pierścienie]] pozwalające wejść do świata posiadają:
 - [[Ali Stercora]]
 - [[Niriel]]
 - [[Sandovall Sierra Casca]]
-- [[Sylvaren Thalos]]
+- [[Sylvaren]]
 - [[Valerianus]]
 - 

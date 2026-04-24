@@ -1,40 +1,45 @@
-
+![[morsaeterna.png]]
 
 # Mistrzowie
 
--  [[Aduhei val neb Bezalen]]
+- [[Aduhei val neb Bezalen]]
 - [[Eshi]]
 - [[Alex Mann]]
 - [[Goran Brix]]
+- [[Omin Bren]]
+- [[Oloven]]
 
-## Ekipa
+## Drużyna
 
 Podlega pod mistrza [[Alex Mann]]
 
 - [[Valerianus]]
-- [[Sylvaren Thalos]]
+- [[Sylvaren]]
 - [[Ali Stercora]]
 - [[Niriel]]
 - [[Sandovall Sierra Casca]]
-- ☠️ [[Zaltar z Sutim]]
+- ☠️ [[Zaltar z Sultim]]
 - ☠️ [[Wojciech]]
 - ☠️ [[Taman]]
 
 
 # Inni
 
-- ☠️ [[Zaisaite]]
-- [[Rosmunda]]
-- [[Omin Bren]]
+
+- [[Barrowin Undurr]]
 - [[Dideryk]]
-- [[Orkira Ildraks]]
-- [[Veronika Eladrim]]
-- [[Nora Fanrel]]
 - [[Don Garblixen]]
 - ☠️ [[Maxim]] 
-- [[Talin Uran]]
+- [[Nora Fanrel]]
+- [[Orbis te Ignis]]
+- [[Orkira Ildraks]]
+- [[Rosmunda]]
 - ☠️ [[Strix]]
-
+- [[Talin Uran]]
+- [[Ulyssess Severance]]
+- [[Veronika Eladrim]]
+- ☠️ [[Zaisaite]]
+- [[Zarlen Slaseban]]
 
 
 ## Zdrajcy
