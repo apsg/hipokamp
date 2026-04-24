@@ -6,6 +6,6 @@
 - [[Ali Stercora]]
 - [[Niriel]]
 - [[Sandovall Sierra Casca]]
-- [[Sylvaren Thanos]]
+- [[Sylvaren Thalos]]
 - [[Valerianus]]
 - 

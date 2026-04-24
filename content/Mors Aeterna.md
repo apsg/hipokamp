@@ -12,7 +12,7 @@
 Podlega pod mistrza [[Alex Mann]]
 
 - [[Valerianus]]
-- [[Sylvaren Thanos]]
+- [[Sylvaren Thalos]]
 - [[Ali Stercora]]
 - [[Niriel]]
 - [[Sandovall Sierra Casca]]
