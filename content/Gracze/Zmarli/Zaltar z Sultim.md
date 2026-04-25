@@ -4,6 +4,7 @@
 Człowiek mag wywodzący się z dalekiego wschodu. Skoptowany do [[Mors Aeterna]] przez [[Alex Mann|Aleksa Manna]].
 Okazał się szpiegiem [[Czerwoni Magowie|Czerwonych Magów]], konkretnie zulkira [[Mythrella|Mythrelli]]. Zginął podczas [[Atak na główną kwaterę|Ataku na główną kwaterę]] MA.
 
+Od [[Aduhei val neb Bezalen|Aduheja]] dostał książeczkę dotyczącą iluzyjnej magii krwi (z pogranicza nekromancji). 
 ## Legenda
 
 Zaltar twierdzi, że pochodzi z miasta Sultim na północy Mulhorand (miasto po drugiej stronie zatoki w stosunku do znajdującego się w Thay Bezantur). Wywodzi się również z ludu Mulan, podobnie jak wyższe sfery Thay

@@ -25,3 +25,19 @@ Chronologia czyli dziejów spisanie
 ### Wrota Baldura
 
 CDN...
+
+### Rajd na siedzibę Alpinula
+- Ekipa w składzie: [[Valerianus]], [[Ali Stercora]], [[Sylvaren]] wchodzi w konszachty z magiem [[Theodor van der Bluer|Theodorem]], żeby dostać się niepostrzeżenie do siedziby [[Krieger Alpinul|Kriegera]]
+- W siedzibie obrabiają skarbiec z kosztowności.
+- Podczas próby rozbrojenia zabezpieczeń magicznego skarbca prawie ginie [[Sylvaren]] - ochroniony dzięki czarom [[Valerianus|Valerianusa]]
+- W magicznym skarbcu zdobywają przedmioty: [[Szkarłatna tablica]], niezidentyfikowana księga magii, szkalana kula, zbroja, miecz, hełm
+- W trakcie grabieży Alpinul orientuje się, że coś jest nie tak, ekipa ucieka teleportem.
+- W ramach rozliczenia z Theodorem drużyna oddaje mu 1/4 zrabowanych kosztowności oraz magiczną księgę.
+- Ponieważ magiczne przedmioty stanowią zbyt duże zagrożenie, drużyna postanawia zatrzymać kosztowności (sfinansują one potem ich [[Zakątek wiecznej rozkoszy|tajną siedzibę]]) a magiczne przedmioty włącznie z tablicą oddać [[Mors Aeterna]]
+- szefostwo nie jest zachwycone samowolną akcją.
+
+### Próba likwidacji Mors Aeterna
+CDN
+
+### Neutralizacja Variela
+
