@@ -43,7 +43,7 @@ Podlega pod mistrza [[Alex Mann]]
 - [[Talin Uran]]
 - [[Ulyssess Severance]]
 - [[Veronika Eladrim]]
-- ☠️ [[Zaisaite]]
+- ☠️ [[Zoisayte]]
 - [[Zarlen Slaseban]]
 
 
