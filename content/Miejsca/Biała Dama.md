@@ -1,0 +1,1 @@
+karczma w mieście [[Murghte]]; droga, ale na wysokim standardzie.

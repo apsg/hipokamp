@@ -1,0 +1,1 @@
+miasto na wschodzie Faerunu w regionie [[Mulhorand]]; w Wielkiej Świątyni Helma, w jednej z baszt mieści się główna siedziba Bractwa [[Mors Aeterna]].

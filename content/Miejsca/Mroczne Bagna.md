@@ -1,0 +1,1 @@
+zwane również Czarcimi Mokradłami, znajdują się w środkowej części Faerunu; dzielą się na trzy części: Czarne Mokradła – zachodnia część, Zguba Elfów – północny fragment, Czarcie Bagna – największy obszar Bagien. Pośrodku Bagien znajduje się Sanktuarium, które wiele lat temu postawili kapłani po wygranej wojnie z nieumartymi.

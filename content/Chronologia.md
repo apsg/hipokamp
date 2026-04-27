@@ -3,14 +3,14 @@ Chronologia czyli dziejów spisanie
 
 
 ### Murghte
-- Drużyna zostaje zebrana w siedzibie [[Mors Aeterna]] przy świątyni Helma w [[Skuld]] przez [[Alex Mann|Alexa Manna]]. Następnie wysłana do [[Murghte]]. W skład drużyny wchodzą:  [[Valerianus]], [[Taman]], [[Zaltar z Sultim|Zaltar]], [[Ali Stercora]]
-- Tam kontaktuje się z miejscowym łącznikiem [[Bernard vel Tiamal|Tiamalem]]
+- Drużyna zostaje zebrana w siedzibie [[Mors Aeterna]] przy świątyni Helma w [[Skuld]] przez [[Alex Mann|Alexa Manna]]. Następnie wysłana do [[Murghte]]. W skład drużyny wchodzą:  [[Valerianus]], [[Taman]], [[Zaltar z Sultim|Zaltar]], [[Alli Stercora]]
+- Tam kontaktuje się z miejscowym łącznikiem [[Bernard vel Thiamal|Tiamalem]]
 - W okolicy rozpracowuje spisek [[Czerwoni Magowie|Czerwonych Magów]]
 - Do drużyny dokooptowany zostaje [[Wojciech]]
 - Wszystko się sypie, drużyna wraca do Skuld, skąd zostaje teleportowana i ostatecznie trafia do [[Zamost|Zamostu]]
 
 ### Zamost
-- Podtruta ekipa spotyka harfiarkę [[Sofia|Sofię]]. Szukając odtrutki trafia z nią do kieszonkowego świata.
+- Podtruta ekipa spotyka harfiarkę [[Sofija|Sofię]]. Szukając odtrutki trafia z nią do kieszonkowego świata.
 - Tam dziwni mieszkańcy leczą ekipę, ale w zamian oczekują rozprawienia się z potworem, który ich terroryzuje.
 - Okazuje się, że ich świat wszedł w kolizję ze światem kieszonkowym [[Krieger Alpinul|Kriegera Alpinula]], skąd trafiają różne obrzydlistwa, m.in. potworny wilk.
 - Drużyna trafia do siedziby Alpinula, sialalala walka z wilkiem i strażnikiem. 
@@ -27,7 +27,7 @@ Chronologia czyli dziejów spisanie
 CDN...
 
 ### Rajd na siedzibę Alpinula
-- Ekipa w składzie: [[Valerianus]], [[Ali Stercora]], [[Sylvaren]] wchodzi w konszachty z magiem [[Theodor van der Bluer|Theodorem]], żeby dostać się niepostrzeżenie do siedziby [[Krieger Alpinul|Kriegera]]
+- Ekipa w składzie: [[Valerianus]], [[Alli Stercora]], [[Sylvaren]] wchodzi w konszachty z magiem [[Theodor van der Bluer|Theodorem]], żeby dostać się niepostrzeżenie do siedziby [[Krieger Alpinul|Kriegera]]
 - W siedzibie obrabiają skarbiec z kosztowności.
 - Podczas próby rozbrojenia zabezpieczeń magicznego skarbca prawie ginie [[Sylvaren]] - ochroniony dzięki czarom [[Valerianus|Valerianusa]]
 - W magicznym skarbcu zdobywają przedmioty: [[Szkarłatna tablica]], niezidentyfikowana księga magii, szkalana kula, zbroja, miecz, hełm

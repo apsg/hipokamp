@@ -1,6 +1,6 @@
 # Jeszcze dychają
 
-- ⚔️ [[Ali Stercora]]
+- ⚔️ [[Alli Stercora]]
 - 🛡️ [[Valerianus]]
 - 🗡️ [[Sandovall Sierra Casca]]
 - 🍂 [[Niril]]

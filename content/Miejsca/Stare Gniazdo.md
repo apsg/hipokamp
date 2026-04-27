@@ -1,0 +1,1 @@
+wieś; położona w pobliżu miasta [[Murghte]].

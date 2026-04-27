@@ -1,0 +1,1 @@
+wieś; położona w pobliżu miasta [[Murghte]]; to tam zabito czwartą ofiarę zatrucia, która stała się zombie.

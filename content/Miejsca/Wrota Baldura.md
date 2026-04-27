@@ -1,6 +1,6 @@
 
 - Nowa siedziba [[Mors Aeterna]] przy świątyni 
-- Tajne pokoje [[Ali Stercora|Aliego]] - gdzie? 
+- Tajne pokoje [[Alli Stercora|Aliego]] - gdzie? 
 
 ## Karczmy
 

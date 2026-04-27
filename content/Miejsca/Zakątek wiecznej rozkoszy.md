@@ -6,7 +6,7 @@
 Świat kosztował około 80 000 gp. Płatne gotówką. 
 
 [[Detektor Hukka|Pierścienie]] pozwalające wejść do świata posiadają:
-- [[Ali Stercora]]
+- [[Alli Stercora]]
 - [[Niril]]
 - [[Sandovall Sierra Casca]]
 - [[Sylvaren]]
@@ -17,7 +17,7 @@
 - wieża maga z laboratoriami - zakątek [[Sylvaren]]
 - łaźnia - zakątek [[Valerianus|Valerianusa]]
 - ogród, las, cały ekosystem zaprojektowany przez [[Niril|Nirila]], również zasiedlony przez niego przez pomniejsze żywiołaki wody, ognia, powietrza i ziemi
-- zbrojownia i sala ćwiczeń - zakątek [[Ali Stercora|Aliego]] i [[Sandovall Sierra Casca|Sandovala]]
+- zbrojownia i sala ćwiczeń - zakątek [[Alli Stercora|Aliego]] i [[Sandovall Sierra Casca|Sandovala]]
 
 
 ### Obrazki z siedziby

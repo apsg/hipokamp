@@ -1,0 +1,1 @@
+teren należący do rodu [[Margianie|Margian]]; na północ od miasta [[Murghte]]; na jego szczycie znajduje się opuszczony dworek; to w nim [[Lutfi Margian]] ukrył listy [[Brand|Branda]] i [[Zuleria|Zulerii]], który ujawniały ich romans, a także skradzione listy [[Zanazem|Zanazema]], w których pisze do [[Czerwoni Magowie|Czerwonych Magów]]; miejsce śmierci Lutfiego.

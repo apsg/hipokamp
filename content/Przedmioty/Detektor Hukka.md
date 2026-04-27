@@ -2,7 +2,7 @@
 Pierścienie identyfikacyjne zaprojektowane przez [[Sylvaren|Sylvarena]] a wykonane przez maga [[Beladren|Beladrena]]. 
 
 Wykonano 5 pierścieni dla następujących osób:
-- [[Ali Stercora]]
+- [[Alli Stercora]]
 - [[Valerianus]]
 - [[Sandovall Sierra Casca]]
 - [[Niril]]

@@ -5,7 +5,7 @@ Artefakt był w posiadaniu [[Krieger Alpinul|Alpinula]], [[Czerwoni Magowie]] ba
 
 Tablica została wykradziona z zamku Alpinula przez ekipę w składzie:
 - [[Valerianus]]
-- [[Ali Stercora]]
+- [[Alli Stercora]]
 - [[Sylvaren]]
 
 Po ataku przekazana została ona do [[Mors Aeterna]]

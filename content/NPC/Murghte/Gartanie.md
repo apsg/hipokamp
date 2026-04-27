@@ -1,0 +1,3 @@
+ród szlachecki; herb – w niebieskim polu herbowym srebrna róża; wywodzi się z okolic miasta [[Murghte]]; 
+Po osiągnięciu dużych wpływów przejął wieki temu władzę w [[Murghte]], utracił ją na rzecz rodu [[Margianie|Margian]], ale utrzymał się w kręgu władzy na terenie miasta; 
+Wspiera wysiłki [[Czerwoni Magowie|Czerwonych Magów]] w próbach przejęcia wpływów w mieście; obecnie głową rodu jest [[Zamazem Umara Gartan]], mag, którego sieć intryg ma na celu obalenie rodu Margianów i przejęcie władzy poprzez przedstawicielkę ich rogu [[Zuleria|Zulerię]], która jest konkubiną księcia [[Leonard|Leopolda]].

@@ -1,0 +1,1 @@
+człowiek; mężczyzna; lat 28; pomocnik stajennego w posiadłości księcia [[Leonard|Leopolda]], usługiwał księciu Brandowi; druga ofiara przemieniona w zombie; nie żyje.

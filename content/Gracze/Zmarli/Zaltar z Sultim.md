@@ -1,10 +1,11 @@
 #mag #człowiek 
 
+> właściwie z Bezantur; człowiek; 27mio letni mężczyzna; pochodzi z bogatej kupieckiej rodziny; pałający się magią; poszukiwacz Szkarłatnej Tablicy; prawdopodobnie związany z Czerwonymi Magami – zulkir Mythrellaa; Zaltar oficjalnie zginął podczas ataku wampirów Kriegera Alpulina na siedzibę Bractwa Mors Aeterna. Patrz też Sylvaren Thalos.
 
-Człowiek mag wywodzący się z dalekiego wschodu. Skoptowany do [[Mors Aeterna]] przez [[Alex Mann|Aleksa Manna]].
+Człowiek, lat 27, mag wywodzący się z dalekiego wschodu. Skoptowany do [[Mors Aeterna]] przez [[Alex Mann|Aleksa Manna]].
 Okazał się szpiegiem [[Czerwoni Magowie|Czerwonych Magów]], konkretnie zulkira [[Mythrella|Mythrelli]]. Zginął podczas [[Atak na główną kwaterę|Ataku na główną kwaterę]] MA.
 
-Od [[Aduhei val neb Bezalen|Aduheja]] dostał książeczkę dotyczącą iluzyjnej magii krwi (z pogranicza nekromancji). 
+Od [[Aduhei Wol neb Bezalen|Aduheja]] dostał książeczkę dotyczącą iluzyjnej magii krwi (z pogranicza nekromancji). 
 ## Legenda
 
 Zaltar twierdzi, że pochodzi z miasta Sultim na północy Mulhorand (miasto po drugiej stronie zatoki w stosunku do znajdującego się w Thay Bezantur). Wywodzi się również z ludu Mulan, podobnie jak wyższe sfery Thay
