@@ -8,4 +8,6 @@ Półelf; wiek na oko 150 lat; mag; mało co wiadomo o tymże młodzieńcze; sł
 
 Mag półelf. Specjalizuje się w magii iluzyjnej, ale ostatnio zaczyna całkiem nieźle radzić sobie z magią lodu.
 
+Patrz również: [[Lyriana]]
+
 ![[sylvaren.png]]
