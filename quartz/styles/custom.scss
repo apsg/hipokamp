@@ -5,10 +5,6 @@
 
 body {
     img {
-        max-width: 100%;
+        max-width: 100% !important;
     }
-}
-
-.page > div#quartz-body div.sidebar.left .explorer .explorer-content {
-    background-color: #f4e2cd !important;
 }

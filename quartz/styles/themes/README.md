@@ -1,13 +1,13 @@
-# Cidreira Coast
+# Vanilla Palettes
 
-- Theme: Cidreira Coast
-- Author: No author provided
+- Theme: Vanilla Palettes
+- Author: <a href="https://github.com/GnRlLeclerc" target="_blank" rel="noopener noreferrer">Thibaut de Saivre</a>
 
 ## Preview
 
-[Open live preview (Quartz)](https://quartz-themes.github.io/cidreira-coast/)
+[Open live preview (Quartz)](https://quartz-themes.github.io/vanilla-palettes.dracula-soft/)
 
-[Open live preview (Publish)](https://publish.saberzero.one/cidreira-coast)
+[Open live preview (Publish)](https://publish.saberzero.one/vanilla-palettes.dracula-soft)
 
 ## Usage (Quartz)
 
@@ -15,7 +15,7 @@
 
 ```yaml
 env:
-  THEME_NAME: cidreira-coast
+  THEME_NAME: vanilla-palettes.dracula-soft
 ```
 
 ```yaml
@@ -28,7 +28,7 @@ env:
 ```bash
 curl -s -S -o action.sh https://raw.githubusercontent.com/saberzero1/quartz-themes/master/action.sh
 
-./action.sh cidreira-coast
+./action.sh vanilla-palettes.dracula-soft
 ```
 
 ### Manual install

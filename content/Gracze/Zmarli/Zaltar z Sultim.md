@@ -20,7 +20,7 @@ Zadanie dość szybko okazało się mało realne, a młodzieńcza naiwność i o
 
 Zaltar pochodzi z rodziny bogatego kupca z miasta [[Bezantur]] - Alastora. Jego ojciec zajmował się z dużym powodzeniem handlem wewnątrz Thay - głównie sprzedając towary sprowadzane przez porty Bezantur dalej w głąb Thay. 
 
-Zaltar ma starszego brata ([[Rhysander]]) oraz młodszą siostrę (Lyriana). Z rodziną nie miał najlepszych stosunków, zwłaszcza ojcem zawiedzionym faktem, że młodszy syn (w przeciwieństwie do starszego) nie wykazuje żadnego zainteresowania ani talentu kupieckiego. To starszy syn “od zawsze” był przysposabiany, by przejąć rodzinny interes. 
+Zaltar ma starszego brata ([[Rhysander]]) oraz młodszą siostrę ([[Lyriana]]). Z rodziną nie miał najlepszych stosunków, zwłaszcza ojcem zawiedzionym faktem, że młodszy syn (w przeciwieństwie do starszego) nie wykazuje żadnego zainteresowania ani talentu kupieckiego. To starszy syn “od zawsze” był przysposabiany, by przejąć rodzinny interes. 
 
 Zatem gdy tylko Zaltar zaczął wykazywać zainteresowanie i talent w kierunku sztuk magicznych, ojciec (dużym nakładem wpływów oraz środków) oddał go w termin do lokalnego maga. Miał nadzieję, że dzięki temu młodszy syn chociaż na coś się przyda, i rodzina uzyska w ten sposób dostęp do handlu magicznymi przedmiotami i artefaktami. 
 
