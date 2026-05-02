@@ -12,6 +12,7 @@ Symbole Bractwa jest czaszka bez żuchwy, za którą widać jasny rozbłysk świ
 - [[Goran Brix]]
 - [[Omin Bren]]
 - [[Oloven]]
+- [[Nerys Kathon]]
 
 ## Drużyna
 
