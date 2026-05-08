@@ -3,4 +3,4 @@
 Wojowniczka, szermierka w [[Mors Aeterna]]. Mistrzyni.
 
 
-![[eshi.jpeg]]
+![[eshi2.jpeg]]
